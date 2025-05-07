@@ -1,2 +1,2 @@
 # BlueStock FAQ Upcoming IPO
-# Frontend
+# Frontend lists all the upcoming IPOs
